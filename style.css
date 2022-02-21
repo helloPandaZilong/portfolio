@@ -3,6 +3,7 @@
   /* Color */
   --color-black: #000000;
   --color-light-white: #eeeeeee1;
+  --color-light-lightwhite: #ffffff38;
   --color-white: #ffffff;
   --color-dark-blue: #000ba8;
   --color-blue: #0310ca;
@@ -150,6 +151,10 @@ p {
   padding: 40px;
   padding-top: 120px;
   text-align: center;
+}
+
+#home.home--light {
+  opacity: 0.6;
 }
 
 .home__avatar {
