@@ -106,7 +106,7 @@ p {
 }
 
 #navbar.navbar--dark {
-  background-color: var(--color-blue);
+  background-color: var(--color-dark-blue);
   padding: 8px;
 }
 
